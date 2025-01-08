@@ -1,2 +1,6 @@
-node_modules/
-.firebase/
+# Firebase configuration files
+.firebase
+.firebaserc
+firebase.json
+node_modules
+dist/
